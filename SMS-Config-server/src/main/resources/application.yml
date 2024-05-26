@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/seremwen/SMS-Config-Files
+          uri: https://github.com/seremwen/School-Management-System/SMS-Config-Files
           default-label: main
           skip-ssl-validation: true
           clone-on-start: true
