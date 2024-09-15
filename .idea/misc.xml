@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/Eureka-Discovery-Server/pom.xml" />
         <option value="$PROJECT_DIR$/SMS-Config-server/pom.xml" />
         <option value="$PROJECT_DIR$/API Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Administration/pom.xml" />
       </list>
     </option>
   </component>
