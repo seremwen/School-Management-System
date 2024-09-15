@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: schools-admin-dev
+  config:
+    import: optional:configserver:http://localhost:8888
+springdoc:
+  swagger-ui:
+    path: api-doc
+    operations-sorter: method
+  api-docs:
+    path: docs
+
+server:
+  servlet:
+    context-path: /admin
